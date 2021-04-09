@@ -1,1 +1,2 @@
-# SFrestaurantanalysis
+# SF-Resturant-Safety-Analysis
+In this project, we will investigate restaurant food safety scores for restaurants in San Francisco. The scores and violation information have been made available by the San Francisco Department of Public Health. The main goal for this assignment is to walk through the process of Data Cleaning and EDA. This project get practice with working with data at different levels of granularity, identifying the type of data collected, missing values, anomalies, etc, and exploring characteristics and distributions of individual variables
