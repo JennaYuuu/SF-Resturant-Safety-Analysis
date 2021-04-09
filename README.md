@@ -3,7 +3,8 @@ In this project, we will investigate restaurant food safety scores for restauran
 
 As a result:
 
-• We found that the records are at the inspection level and that we have inspections for multiple years.
+• We found that the records are at the inspection level and that we have inspections for multiple years. 
+
 • We also found that many restaurants have more than one inspection a year.
 
 • By joining the business and inspection data, we identified the name of the restaurant with the worst rating and optionally the names of the restaurants with the best rating.
